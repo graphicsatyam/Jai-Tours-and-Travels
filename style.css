@@ -21,3 +21,20 @@
     margin-top: 14px;
     
   }
+  
+
+  .headings_new {
+    font-family: 'Josefin Sans', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    /* line-height: 2em; */
+    padding: 2px;
+    color: black;
+    margin-top: 1rem;
+  }
+
+  .points  {
+    font-size: 15px;
+  }
+
+  
